@@ -1,0 +1,10 @@
+1. The user shall assure it has an environment which has streamlit installed
+
+2. Once necessary packages has been downloaded (streamlit and potly) the user must assure as well 
+that the location of the frontend code must be the same as the location of df_stream.pkl, 
+which holds the data from FD001 to be used in this visualization.
+
+3. If the user has set up this correctly, there should be no issue when simply running the cells in the notebook,
+the first one runs the code and the second launched the app.
+
+4. If the app has been launched correctly, just have fun!
